@@ -1,0 +1,7 @@
+<library path="string_reverser">
+    <class name="plugin_system/StringReverser" type="StringReverser" base_class_type="StringProcessor"/>
+</library>
+<library path="string_counter">
+    <class name="plugin_system/StringCounter" type="StringCounter" base_class_type="StringProcessor"/>
+</library>
+
